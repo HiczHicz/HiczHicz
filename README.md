@@ -2,9 +2,7 @@
 
 I am a Mathematical Modelling and Data Analysis student at the University of Gdańsk, exploring the intersection of **Software Engineering** and **Data Science**. I bridge the gap between rigorous mathematical theory, practical code, and social sciences. 
 
-Beyond coding, I am an active science popularizer, student leader, and hackathon enthusiast.
-
-🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/martyna-pieczka-42780723b/)
+Beyond coding, I am an active science popularizer, student leader, and hackathon enthusiast. **Connect with me:** [LinkedIn](https://www.linkedin.com/in/martyna-pieczka-42780723b/)
 
 ### 🚀 Current Focus
 - **Core Java:** Deepening my knowledge of OOP, data structures, and building robust applications.
@@ -19,7 +17,6 @@ I love showing that mathematics is everywhere. I give public lectures and write 
 - **Languages:** Python, R, Java, SQL
 - **Data Science:** Data Visualization, Feature Engineering, Predictive Modelling
 - **Tools & Workflow:** Git, GitHub, Excel, Tableau, Figma, Jira
-- 
 
 ### Featured Projects
 * **[Scania Failure Model](https://github.com/DeepDive-UG/Scania-failure-model)** - Predictive model for component failures built with Python. 
