@@ -4,16 +4,16 @@ I am a Mathematical Modelling and Data Analysis student at the University of Gda
 
 Beyond coding, I am an active science popularizer, student leader, and hackathon enthusiast. **Connect with me:** [LinkedIn](https://www.linkedin.com/in/martyna-pieczka-42780723b/)
 
-### 🚀 Current Focus
+### Current Focus
 - **Core Java:** Deepening my knowledge of OOP, data structures, and building robust applications.
 - **Statistical Modelling in R&Python:** Developing and validating classification and regression models.
 - **Portfolio Hub:** Building a custom website to showcase my coding projects, popular science texts, and graphic design work.
 - **EdTech:** Interning at the Infiro Foundation, designing an application that supports children with low math skills.
 
-### 🧠 Interdisciplinary & Science Popularization
+### Interdisciplinary & Science Popularization
 I love showing that mathematics is everywhere. I give public lectures and write content combining mathematics with social studies, anthropology, and religious studies (e.g., exploring mathematical patterns in historical architecture).
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 - **Languages:** Python, R, Java, SQL
 - **Data Science:** Data Visualization, Feature Engineering, Predictive Modelling
 - **Tools & Workflow:** Git, GitHub, Excel, Tableau, Figma, Jira
